@@ -324,6 +324,18 @@ span.fl-txt-line-bg {
     .fl-result-came-img-btm{
         text-align: center;
     }
+    .fl-steps-wrong-img-tp {
+        margin-top: 0;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .fl-steps-wrong-img-btm{
+        text-align: center;
+    }
+    .fl-steps-wrong-img-btm {
+        text-align: center;
+        padding-bottom: 20px;
+    }
 
 }
 
