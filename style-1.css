@@ -1,3 +1,241 @@
+header.fl-hdr{ 
+    background: #fff;
+    -ms-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    -ms-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, .16);
+    -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, .16);
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, .16);
+    position: relative;
+    z-index: 5
+}
+.header-innr {
+    background: #fff;
+    padding: 10px 0;
+} 
+.hdr-left,
+.hdr-rgt {
+    width: 50%;
+    float: left
+}
+.hdr-left {
+    padding-right: 30px
+}
+.hdr-rgt {
+    text-align: right
+}
+.hdr-logo,
+.secure-img{
+    display: inline-block;
+    vertical-align: baseline;
+    max-width: 252px
+}
+.header .secure-img {
+    max-width: 223px
+}
+.fl-hdr img{
+    width: 100%
+}
+
+
+.fl-shipping-progress-bar{
+    background: #fff;
+}
+.fl-shipping {
+    padding-bottom: 28px;
+    box-sizing: border-box;
+    position: relative
+}
+.fl-shipping img {
+    display: inline-block;
+    position: relative;
+    top: 36px;
+    width: 57px;
+    height: 57px
+}
+.fl-shipping .two_sec img {
+    top: 28px;
+    width: 71px;
+    height: 71px
+}
+.fl-shipping-col {
+    width: 33.333%;
+    float: left;
+    padding-left: 7px;
+    padding-right: 7px
+}
+.fl-shipping h4 {
+    color: #000;
+    font-family: 'LatoSemibold';
+    text-transform: uppercase;
+    font-size: 24px;
+    margin-top: 45px;
+    width: 100%
+}
+.fl-shipping .two_sec > h4 {
+    font-family: 'LatoBold';
+    margin-top: 32px;
+}
+.fl-shipping:before {
+    content: "";
+    height: 14px;
+    width: 100%;
+    position: absolute;
+    background: #1184e8;
+    left: 0;
+    right: 0;
+    border-radius: 50px;
+    top: 57px;
+}
+
+.fl-reading-sec{
+	padding: 25px 0 60px;
+}
+
+.fl-special-offer-sec{
+    position: relative;
+    z-index: 1
+}
+.fl-special-offer-bg{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-repeat: no-repeat!important;
+    background-size: 100% 100%!important;
+    background-position: center bottom!important;
+    z-index: 2
+}
+.special-offer-dsc{
+    position: relative;
+    z-index: 3;
+    padding: 90px 350px 130px 0;
+}
+.special-offer-dsc h1 {
+    font-family: 'Vollkorn-Bold';
+    margin-bottom:16px;
+    text-shadow: 1px 3px 8px #000;
+    line-height: 70px;
+    color:#fff;
+}
+.special-offer-dsc h3 {
+	font-family: 'LatoSemiBoldItalic';
+    margin-bottom: 10px;
+    color: #fcff27;
+}
+.fl-reading-two-part-wrp .fl-reading-img{
+	width: 50%;
+	float: left
+}
+.fl-reading-two-part-wrp .fl-reading-des{
+	width: 50%;
+	float: left;
+	padding-left: 30px;
+	padding-top: 8px;
+}
+.fl-reading-two-part-wrp li:nth-child(2n+1) .fl-reading-img{
+	float: right
+}
+.fl-reading-two-part-wrp li:nth-child(2n+1) .fl-reading-des{
+	padding-right: 30px;
+	padding-left: 0;
+	padding-top: 53px;
+}
+.fl-reading-two-part-wrp li:not(:last-child){
+	margin-bottom: 23px;
+}
+
+
+
+.fl-credit-fixed-sec{
+	padding-bottom: 30px;
+}
+.fl-credit-fixed-head{
+	position: relative;
+	padding-bottom: 35px;
+}
+.fl-credit-fixed-head h2{
+	font-family: 'Vollkorn-Bold';
+}
+.fl-credit-fixed-head h2 span{
+	color:#135d9d;
+}
+.fl-credit-fixed-head img{
+	position: absolute;
+	bottom:25px;
+	left: 50%;
+	-ms-transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+.fl-credit-fixed-img{
+	width: 49%;
+}
+.fl-credit-fixed-des{
+	width: 51%;
+	padding: 0 155px 20px 30px;
+}
+.fl-credit-fixed-des p:last-child{
+	margin-bottom: 0;
+}
+
+
+
+
+
+.fl-personal-benefit-innr{
+	background: #fff;
+	padding-bottom: 30px;
+}
+.fl-personal-benefit-head{
+    padding: 38px 10px 75px;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center bottom !important;
+    margin-bottom: 35px;
+    position: relative;
+    border-top: 1px solid #b0c4d5;
+}
+.fl-personal-benefit-head h2{
+    color: #fff;
+    font-family: 'Vollkorn-Bold';
+    margin-bottom: 0;
+}
+.fl-personal-benefit-two-part{
+	padding-left: 45px;
+	padding-right: 15px;
+}
+.fl-personal-benefit-two-part .fl-personal-benefit-img{
+	width: 47.5%;
+	float: left;
+}
+.fl-personal-benefit-two-part .fl-personal-benefit-des{
+	width: 52.5%;
+	float: left;
+	padding-left: 30px;
+	padding-right: 44px;
+	padding-top: 8px;
+}
+.fl-personal-benefit-two-part li:nth-child(2n+1) .fl-personal-benefit-img{
+	width: 50.5%;
+	float: right;
+}
+.fl-personal-benefit-two-part li:nth-child(2n+1) .fl-personal-benefit-des{
+	width: 49.5%;
+	padding-right: 30px;
+	padding-left: 0;
+}
+
+
+
+.fl-personal-benefit-two-part{}
+
+
+.fl-personal-benefit-two-part .fl-personal-benefit-des p:last-child{
+	margin-bottom: 0;
+}
+
 
 
 
