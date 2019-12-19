@@ -34,6 +34,14 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: 'Barlow-ExtraBold';
+  src: url('assets/fonts/Barlow-ExtraBold/barlow-extrabold-webfont.woff2') format('woff2'),
+    url('assets/fonts/Barlow-ExtraBold/barlow-extrabold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 @font-face {
   font-family: 'PTSerifBold';
