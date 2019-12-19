@@ -6,7 +6,7 @@
   font-style: normal;
   font-display: swap;
 }
-
+ 
 @font-face {
   font-family: 'Vollkorn-Semibold';
   src: url('assets/fonts/Vollkorn-Semibold/Vollkorn-Semibold.woff2') format('woff2'),
@@ -16,7 +16,6 @@
   font-display: swap;
 }
 
-
 @font-face {
   font-family: 'Vollkorn-SemiboldItalic';
   src: url('assets/fonts/Vollkorn-SemiboldItalic/Vollkorn-SemiboldItalic.woff2') format('woff2'),
@@ -25,6 +24,16 @@
   font-style: normal;
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'Vollkorn-BoldItalic';
+  src: url('assets/fonts/Vollkorn-BoldItalic/Vollkorn-BoldItalic.woff2') format('woff2'),
+    url('assets/fonts/Vollkorn-BoldItalic/Vollkorn-BoldItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 @font-face {
   font-family: 'PTSerifBold';
