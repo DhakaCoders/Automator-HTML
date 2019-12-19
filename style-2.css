@@ -63,7 +63,7 @@
     padding-right: 45px;
 }
 .fl-steps-wrong-dsc-tp {
-    padding-right: 35px;
+    padding-right: 25px;
 }
 
 
@@ -301,4 +301,67 @@ span.fl-txt-line-bg {
     padding-right: 15px;
     padding-bottom: 5px;
     color: #000;
+}
+
+
+@media(max-width: 1399px){
+    .fl-result-came-img-btm {
+        margin-left: 0;
+    }
+}
+@media(max-width: 1199px){ 
+    .fl-result-came-img-tp {
+        margin-top: 0;
+        padding-top: 30px;
+        text-align: center;
+    }
+    .pull-right{
+        float: none !important;
+    }
+    .fl-result-came-dsc-tp {
+        padding-right: 0;
+    }
+    .fl-result-came-img-btm{
+        text-align: center;
+    }
+
+}
+
+
+@media(max-width: 991px){
+    
+
+
+}
+
+
+@media(max-width: 767px){
+    
+
+    
+}
+
+
+
+@media(max-width: 639px){
+
+}
+
+
+
+@media(max-width: 575px){
+
+
+}
+
+
+@media(max-width: 479px){
+
+
+}
+
+
+
+@media(max-width: 359px){
+
 }
