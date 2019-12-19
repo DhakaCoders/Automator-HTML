@@ -11,7 +11,7 @@ header.fl-hdr{
 }
 .header-innr {
     background: #fff;
-    padding: 10px 0;
+    padding: 10px 0; 
 } 
 .hdr-left,
 .hdr-rgt {
@@ -142,8 +142,8 @@ header.fl-hdr{
 .fl-reading-two-part-wrp li:not(:last-child){
 	margin-bottom: 23px;
 }
-.fl-credit-fixed-sec{
-	padding-bottom: 30px;
+.fl-credit-fixed-sec {
+    padding: 45px 0 30px;
 }
 .fl-credit-fixed-head{
 	position: relative;
@@ -419,34 +419,75 @@ header.fl-hdr{
 
 
 
+.fl-dft-angle-sec{
 
+}
+.fl-dft-angle-sec-innr{
+	padding-left: 42px;
+	padding-right: 42px;
+}
+.fl-dft-angle-block{
+	position: relative;
+	z-index: 1;
+}
+.fl-dft-angle-img {
+    position: absolute;
+    top: 0;
+    right: -27px;
+    bottom: 0;
+    left: 27%;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center center !important;
+}
+.fl-dft-angle-des{
+	max-width: 720px;
+	position: relative;
+	z-index: 3;
+	color: #fff;
+	padding: 36px 145px 40px 55px;
+	background-repeat: no-repeat !important;
+    background-size: 100% 100% !important;
+    background-position: center center !important;
+}
+.fl-dft-angle-des p:last-child{
+	margin-bottom: 0;
+}
+.fl-dft-angle-des-hdr{
+	position: relative;
+	padding-bottom: 35px;
+}
+.fl-dft-angle-des-hdr h2{
+	font-family: 'Vollkorn-BoldItalic';
+}
+.fl-dft-angle-des-hdr h2 span{
+	color:#135d9d;
+}
+.fl-dft-angle-des-hdr img{
+	position: absolute;
+	bottom:25px;
+	left: 50%;
+	-ms-transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+.fl-dft-angle-img img{
+	display: none
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.angle-block-btm-line{
+	position: relative;
+}
+.angle-block-btm-line:after{
+	content: "";
+	position: absolute;
+	width: ;
+	height: 4px;
+	background: #d9dade;
+	bottom: -4px;
+	left: 4px;
+	right: -4px;
+}
 
 
 
