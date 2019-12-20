@@ -72,7 +72,7 @@
 	padding-bottom: 50px;
 	position: relative;
 	background-repeat: no-repeat !important;
-	background-position: center center !important;
+	background-position: center top !important;
 	background-size: cover !important;
 }
 .fl-success-rate-dsc {
@@ -125,7 +125,7 @@
     padding-right: 85px;
 }
 .fl-credit-cart-sec-wrp {
-    padding-top: 10px;
+    padding-top: 15px;
     padding-bottom: 25px;
 }
 .fl-credit-cart-dsc{
@@ -188,6 +188,16 @@
 }
 .fl-coffee-invest-sec-wrp .fl-creditcard-btn{
 	padding-top: 25px;
+}
+.fl-dft-angle-sec-3{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+.prd-bt-5{
+    padding-bottom: 5px !important;
+}
+.fl-add-to-cart-img{
+    margin-left: -20px;
 }
 
 
@@ -312,6 +322,9 @@ span.fl-txt-line-bg {
 .fl-confusion-dsc-btm{
     position: relative;
 }
+.fl-dft-angle-des-prd{
+    padding-right: 255px;
+}
 .fl-confusion-dsc-bg {
     position: absolute;
     left: -15px;
@@ -325,6 +338,12 @@ span.fl-txt-line-bg {
 
 @media(max-width: 1399px){
     .fl-result-came-img-btm {
+        margin-left: 0;
+    }
+    .fl-confusion-img-1 {
+        margin-right: 0;
+    }
+    .fl-confusion-img-2 {
         margin-left: 0;
     }
 }
@@ -355,6 +374,112 @@ span.fl-txt-line-bg {
         text-align: center;
         padding-bottom: 20px;
     }
+    .fl-steps-wrong-dsc-tp span.fl-txt-line-bg{
+        background-position: auto !important;
+    }
+    .fl-steps-wrong-img {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .fl-success-rate-img{
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .fl-success-rate-dsc {
+        padding-right: 0;
+    }
+    .fl-success-rate-sec-wrp {
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+    .fl-confusion-img-1 {
+        margin-right: 0;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    .fl-confusion-head h2 br{
+        display: none;
+    }
+    .fl-steps-wrong-dsc-btm {
+        padding-right: 0;
+    }
+    .fl-steps-wrong-dsc-tp {
+        padding-right: 0;
+    }
+    .fl-result-came-dsc-btm {
+        padding-right: 0;
+    }
+    .fl-confusion-dsc-bg {
+        left: 0;
+        right: 0;
+        top: 55px;
+        max-width: 400px;
+        width: 100%;
+    }
+    .fl-paid-dsc {
+        padding-right: 0;
+    }
+    .fl-paid-sec-wrp {
+        padding-top: 70px;
+        padding-bottom: 40px;
+    }
+    .fl-credit-cart-img-1{
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .fl-credit-cart-dsc-btm p br{
+        display: none;
+    }
+    .fl-credit-cart-dsc {
+        padding-right: 0;
+    }
+    .fl-add-to-cart-bg {
+        padding: 20px 0 30px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .fl-add-to-cart-img{
+        text-align: center;
+    }
+    .fl-add-to-cart-img-1{
+        text-align: center;
+        padding-bottom: 30px;
+        padding-right: 10px;
+    }
+    .fl-add-to-cart-dsc-tp {
+        padding-left: 0;
+        margin-right: 0;
+        padding-bottom: 30px;
+        padding-right: 0;
+    }
+    .fl-steps-wrong-img-middle{
+        text-align: center;
+    }
+    .fl-steps-wrong-img-middle {
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 30px;
+        margin: 0;
+    }
+    .fl-result-came-sec-wrp {
+        padding-top: 60px;
+    }
+    .fl-add-to-cart-dsc-btm {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .fl-add-to-cart-bg {
+        padding: 20px 15px 30px 15px;
+    }
+    .fl-add-to-cart-img{
+        margin-left: 0;
+    }
+    .fl-footer-wrap p br{
+        display: none;
+    }
+
+
 
 }
 
@@ -367,9 +492,14 @@ span.fl-txt-line-bg {
 
 
 @media(max-width: 767px){
-    
-
-    
+    .fl-confusion-bdr {
+        padding: 35px 20px 10px;
+    }
+    .fl-footer-wrap {
+        padding: 50px 0 60px;
+        font-size: 15px;
+        line-height: 22px;
+    }
 }
 
 
@@ -381,13 +511,25 @@ span.fl-txt-line-bg {
 
 
 @media(max-width: 575px){
-
-
+    .fl-creditcard-btn a {
+        font-size: 30px;
+        line-height: 34px;
+        padding: 15px 25px;
+    }
 }
 
 
 @media(max-width: 479px){
-
+    .fl-creditcard-btn a {
+        font-size: 28px;
+        line-height: 30px;
+        padding: 15px 18px;
+    }
+    .fl-ftr-nav ul li {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 0 8px;
+    }
 
 }
 
