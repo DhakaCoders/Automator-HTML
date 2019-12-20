@@ -67,6 +67,8 @@
 }
 
 
+
+
 .fl-success-rate-sec-wrp{
 	padding-top: 100px;
 	padding-bottom: 50px;
@@ -322,8 +324,8 @@ span.fl-txt-line-bg {
 .fl-confusion-dsc-btm{
     position: relative;
 }
-.fl-dft-angle-des-prd{
-    padding-right: 255px;
+.fl-dft-angle-des-prd {
+    padding-right: 275px;
 }
 .fl-confusion-dsc-bg {
     position: absolute;
@@ -334,6 +336,12 @@ span.fl-txt-line-bg {
     background-size: cover !important;
     background-position: center center !important;
 }
+.fl-dft-angle-sec.fl-dft-angle-sec-2.fl-dft-angle-sec-3 .fl-dft-angle-des {
+    max-width: 880px;
+    color: #000;
+    padding: 36px 40px 40px;
+}
+
 
 
 @media(max-width: 1399px){
