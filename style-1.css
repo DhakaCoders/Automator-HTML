@@ -360,6 +360,7 @@ header.fl-hdr{
 .smart-money-oftion ul{
 	padding-left: 20px;
 	position: relative;
+	z-index: 3;
 }
 .smart-money-oftion ul:after{
 	content: "";
@@ -377,12 +378,7 @@ header.fl-hdr{
 	position: relative;
 	max-width: 890px;
 	margin: 0 auto;
-	-webkit-box-shadow: 1px 1px 13px -4px rgba(0,0,0,0.75);
-	-moz-box-shadow: 1px 1px 13px -4px rgba(0,0,0,0.75);
-	box-shadow: 1px 1px 13px -4px rgba(0,0,0,0.75);
 	margin-bottom: 65px;
-	border-radius: 45px;
-	/* padding: 20px 20px 20px 90px; */
 }
 .smart-money-oftion li span {
     font-family: 'LatoBold';
@@ -408,12 +404,25 @@ header.fl-hdr{
 	vertical-align: baseline;
 	color: #4a4a4a;
 	padding: 20px 20px 20px 90px;
+	background: #fff;
+	border-radius: 45px;
+	-webkit-box-shadow: 1px 1px 13px -4px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 1px 13px -4px rgba(0,0,0,0.75);
+	box-shadow: 1px 1px 13px -4px rgba(0,0,0,0.75);
 }
 .smart-money-oftion li a:hover{
 	color: #135d9d;
 }
 
-
+.smart-money-oftion > img{
+	position: absolute;
+	top: -30px;
+	left: 50%;
+	z-index: 1;
+	-ms-transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
 
 
 
