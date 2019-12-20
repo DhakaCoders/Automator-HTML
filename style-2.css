@@ -325,7 +325,7 @@ span.fl-txt-line-bg {
     position: relative;
 }
 .fl-dft-angle-des-prd {
-    padding-right: 275px;
+    padding-right: 225px;
 }
 .fl-confusion-dsc-bg {
     position: absolute;
@@ -339,7 +339,7 @@ span.fl-txt-line-bg {
 .fl-dft-angle-sec.fl-dft-angle-sec-2.fl-dft-angle-sec-3 .fl-dft-angle-des {
     max-width: 880px;
     color: #000;
-    padding: 36px 40px 40px;
+    padding: 36px 130px 40px 40px;
 }
 
 
@@ -360,9 +360,6 @@ span.fl-txt-line-bg {
         margin-top: 0;
         padding-top: 30px;
         text-align: center;
-    }
-    .pull-right{
-        float: none !important;
     }
     .fl-result-came-dsc-tp {
         padding-right: 0;
