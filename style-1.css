@@ -487,7 +487,7 @@ header.fl-hdr{
 .fl-dft-angle-img {
     position: absolute;
     top: 0;
-    right: -27px;
+    right: -37px;
     bottom: 0;
     left: 27%;
     background-repeat: no-repeat !important;
@@ -655,7 +655,7 @@ span.fl-txt-line-bg {
 	    width: 100%;
 	    float: left;
 	    padding:0;
-	    padding-bottom: 35px;
+	    padding-bottom: 40px;
 	}
 	.fl-personal-benefit-two-part .fl-personal-benefit-des:last-child {
 	    padding-bottom: 0;
@@ -687,7 +687,7 @@ span.fl-txt-line-bg {
 	    padding: 0;
 	}
 	.fl-automator-you-two-part li:not(:last-child){
-		margin-bottom: 30px!important;
+		margin-bottom: 40px!important;
 	}
 	.fl-smart-money-img {
 	    width: 100%;
@@ -816,7 +816,7 @@ span.fl-txt-line-bg {
 	    margin-bottom: 40px;
 	}
 	.smart-money-oftion li strong {
-	    padding: 12px 10px 12px 90px;
+	    padding: 12px 10px 12px 60px;
 	}
 	.smart-money-oftion li span {
 	    font-size: 22px;
