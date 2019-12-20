@@ -13,7 +13,7 @@ header.fl-hdr{
     background: #fff;
     padding: 10px 0; 
 } 
-.hdr-left,
+.hdr-left, 
 .hdr-rgt {
     width: 50%;
     float: left
@@ -176,6 +176,9 @@ header.fl-hdr{
 .fl-personal-benefit-innr{
 	background: #fff;
 	padding-bottom: 30px;
+	-webkit-box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
+	box-shadow: 0px 0p
 }
 .fl-personal-benefit-head{
     padding: 38px 10px 75px;
@@ -218,6 +221,10 @@ header.fl-hdr{
 .fl-personal-benefit-two-part{}
 .fl-personal-benefit-two-part .fl-personal-benefit-des p:last-child{
 	margin-bottom: 0;
+}
+
+.fl-credit-score-sec{
+	padding: 45px 0 50px;
 }
 .fl-credit-score-innr{
 	max-width: 1310px;
@@ -303,7 +310,23 @@ header.fl-hdr{
 }
 .fl-automator-you-sec{
 	position: relative;
-	padding: 50px 0;
+	padding: 0px 0 50px;
+}
+
+.fl-automator-you-head-innr{
+	display: inline-block;
+	max-width: 485px;
+	width: 100%;
+	padding: 25px 10px;
+	margin-bottom: 45px;
+    background-repeat: no-repeat!important;
+    background-size: 100% 100%!important;
+    background-position: center bottom!important;
+}
+.fl-automator-you-head-innr h1{
+	font-family: 'Vollkorn-Bold';
+	color: #fff;
+	margin-bottom: 0;
 }
 .fl-automator-you-img{
 	width: 49%;
@@ -313,6 +336,9 @@ header.fl-hdr{
 	width: 51%;
 	float: left;
 	padding-left: 26px;
+}
+.fl-automator-you-des p span{
+	font-family: 'LatoLightItalic';
 }
 .fl-automator-you-two-part li:nth-child(2n+2) .fl-automator-you-img{
 	float: right;
@@ -325,8 +351,14 @@ header.fl-hdr{
 	margin-bottom: 10px;
 }
 .fl-smart-money-sec{
-	background: #fff;
 	padding-bottom: 30px;
+}
+.fl-smart-money-innr{	
+	background: #fff;
+	padding-bottom: 45px;
+	-webkit-box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
 }
 .fl-smart-money-img{
 	width: 48.85%;
@@ -355,7 +387,7 @@ header.fl-hdr{
 	max-width: 890px;
 	margin: 0 auto;
 	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-bottom: 60px;
 }
 .smart-money-oftion ul{
 	padding-left: 20px;
@@ -380,6 +412,10 @@ header.fl-hdr{
 	margin: 0 auto;
 	margin-bottom: 65px;
 }
+.smart-money-oftion li:last-child{
+	margin-bottom: 0px;
+}
+
 .smart-money-oftion li span {
     font-family: 'LatoBold';
     font-size: 30px;
@@ -423,8 +459,10 @@ header.fl-hdr{
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 }
-
-
+.smart-money-last-line{
+	margin-left: 45px;
+	margin-bottom: 0;
+}
 
 
 
@@ -483,7 +521,6 @@ header.fl-hdr{
 .fl-dft-angle-img img{
 	display: none
 }
-
 .angle-block-btm-line{
 	position: relative;
 }
@@ -498,8 +535,7 @@ header.fl-hdr{
 	right: -4px;
 }
 .fl-dft-angle-sec.fl-dft-angle-sec-2 {
-    padding-top: 60px;
-    padding-bottom: 50px;
+    padding: 60px 0;
 }
 .fl-dft-angle-sec.fl-dft-angle-sec-2 .fl-dft-angle-sec-innr {
     padding-left: 0;
@@ -524,7 +560,20 @@ header.fl-hdr{
 
 
 
-
+span.fl-txt-line-bg {
+    font-family: 'LatoBold';
+    display: inline-block;
+    vertical-align: baseline;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-size: 100% 100% !important;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    color: #000;
+}
 
 
 
