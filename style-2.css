@@ -51,10 +51,13 @@
     font-family: 'Vollkorn-Bold';
     margin-bottom: 30px;
 }
-
+.fl-steps-wrong-btm-sec-wrp,
 .fl-steps-wrong-sec-wrp{
 	padding-top: 40px;
 	padding-bottom: 30px;
+}
+.fl-steps-wrong-btm-sec-wrp .fl-steps-wrong-dsc-tp {
+    padding-right: 30px;
 }
 .fl-steps-wrong-img-tp {
     margin-top: -35px;
@@ -63,7 +66,7 @@
     padding-right: 45px;
 }
 .fl-steps-wrong-dsc-tp {
-    padding-right: 25px;
+    padding-right: 5px;
 }
 
 
@@ -175,15 +178,19 @@
 	margin-bottom: 15px;
 	text-transform: uppercase;
 }
+.fl-creditcard-btn a:hover{
+    opacity: .5;
+}
 .fl-creditcard-btn span{
 	display:block;
 }
 .fl-add-to-cart-img-1{
 	padding-left: 10px;
 }
-.fl-add-to-cart-dsc-btm{
-	color: #fff;
-	padding-left: 20px;
+.fl-add-to-cart-dsc-btm {
+    color: #fff;
+    padding-left: 20px;
+    padding-right: 15px;
 }
 .fl-coffee-invest-sec-wrp{
 	padding-top: 40px;
@@ -321,8 +328,8 @@ span.fl-txt-line-bg {
     position: relative;
     padding-right: 20px;
 }
-.fl-confusion-dsc-btm{
-    position: relative;
+.fl-confusion-dsc-btm {
+    padding-right: 10px;
 }
 .fl-confusion-dsc-bg {
     position: absolute;
@@ -332,6 +339,12 @@ span.fl-txt-line-bg {
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: center center !important;
+}
+.fl-coffee-invest-sec-wrp .fl-steps-wrong-dsc-tp {
+    padding-right: 30px;
+}
+.fl-steps-wrong-dsc-btm-lft{
+    padding-right: 40px;
 }
 
 
@@ -474,6 +487,34 @@ span.fl-txt-line-bg {
         margin-left: 0;
     }
     .fl-footer-wrap p br{
+        display: none;
+    }
+    .fl-steps-wrong-btm-sec-wrp .fl-steps-wrong-dsc-tp {
+        padding-right: 0;
+    }
+    .fl-confusion-dsc-btm {
+        padding-right: 0;
+    }
+    .fl-add-to-cart-dsc-btm{
+        padding-right: 0;
+    }
+    .fl-coffee-invest-sec-wrp .fl-steps-wrong-dsc-tp {
+        padding-right: 0;
+    }
+    .fl-steps-wrong-dsc-btm-lft{
+        padding-right: 0;
+    }
+    .fl-coffee-invest-sec-wrp .pull-right,
+    .fl-add-to-cart-sec-wrp .pull-right,
+    .fl-credit-cart-sec-wrp .pull-right,
+    .fl-confusion-sec-wrp .pull-right,
+    .fl-success-rate-sec-wrp .pull-right,
+    .fl-steps-wrong-btm-sec-wrp .pull-right,
+    .fl-steps-wrong-sec-wrp .pull-right,
+    .fl-result-came-sec-wrp .pull-right{
+        float: none !important;
+    }
+    .fl-result-came-head h2 br{
         display: none;
     }
 
