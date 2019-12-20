@@ -178,7 +178,7 @@ header.fl-hdr{
 	padding-bottom: 30px;
 	-webkit-box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
-	box-shadow: 0px 0p
+	box-shadow: 0px 0px 12px -3px rgba(0,0,0,0.75);
 }
 .fl-personal-benefit-head{
     padding: 38px 10px 75px;
@@ -255,6 +255,10 @@ header.fl-hdr{
 .fl-credit-score-img{
 	width: 48.24%;
 	padding-top: 15px;
+}
+.fl-credit-score-img img{
+	width: 636px;
+	width: 100%;
 }
 .fl-credit-score-des{
 	width: 51.23%;
@@ -527,12 +531,14 @@ header.fl-hdr{
 .angle-block-btm-line:after{
 	content: "";
 	position: absolute;
-	width: ;
 	height: 4px;
 	background: #d9dade;
 	bottom: -4px;
 	left: 4px;
 	right: -4px;
+}
+.fl-dft-angle-des p br{
+	display: block!important;
 }
 .fl-dft-angle-sec.fl-dft-angle-sec-2 {
     padding: 60px 0;
@@ -584,44 +590,188 @@ span.fl-txt-line-bg {
 
 
 
+ 
 
 
+@media(max-width: 1199px){
+	.special-offer-dsc h1 {
+		line-height: 55px;
+	}
+	.special-offer-dsc {
+	    position: relative;
+	    z-index: 3;
+	    padding: 80px 250px 100px 0;
+	}
+	.fl-credit-fixed-des {
+	    padding: 0 0 20px 30px;
+	}
+} 
 
+@media(max-width: 1023px){
+	.fl-reading-sec {
+	    padding: 25px 0 20px;
+	}
+	.fl-reading-two-part-wrp .fl-reading-img {
+	    width: 100%;
+	    margin-bottom: 20px;
+	}
+	.fl-reading-two-part-wrp .fl-reading-des {
+	    width: 100%;
+	    float: left;
+	    padding:0 0 30px!important;
+	}
+	.fl-credit-fixed-img {
+	    width: 100%;
+	    margin-bottom: 25px;
+	}
+	.fl-credit-fixed-des {
+	    width: 100%;
+	    padding: 0 0 30px;
+	}
+	.fl-personal-benefit-two-part li:nth-child(2n+1) .fl-personal-benefit-img,
+	.fl-personal-benefit-two-part .fl-personal-benefit-img {
+	    width: 100%;
+	    float: left;
+	    margin-bottom: 25px;
+	}
+	.fl-personal-benefit-two-part li:nth-child(2n+1) .fl-personal-benefit-des,
+	.fl-personal-benefit-two-part .fl-personal-benefit-des {
+	    width: 100%;
+	    float: left;
+	    padding:0;
+	    padding-bottom: 35px;
+	}
+	.fl-personal-benefit-two-part .fl-personal-benefit-des:last-child {
+	    padding-bottom: 0;
+	}
+	.fl-personal-benefit-two-part {
+	    padding-left:25px;
+	    padding-right:25px;
+	}
+	.fl-personal-benefit-innr {
+	    padding-bottom: 50px;
+	}
+}
 
+@media(max-width: 991px){
+    .fl-shipping h4 {
+        font-size: 18px
+    }
+	.special-offer-dsc h1 {
+		line-height: 45px;
+	}
+	.special-offer-dsc {
+	    padding: 70px 150px 70px 0;
+	}
 
+	.fl-dft-angle-img { 
+		background-image:none!important;
+	    position: static;
+	    text-align: center;
+	    margin-bottom: 20px;
+	}
+	.fl-dft-angle-img img {
+	    display: inline-block;
+	}
+	.fl-dft-angle-des {
+	    background-image: none!important;
+	    background: #135d9d;
+	    max-width: 100%;
+	    padding: 30px 20px;
+	}
+	.fl-dft-angle-sec-innr {
+	    padding-left: 0;
+	    padding-right: 0;
+	}
+	.fl-dft-angle-des-hdr {
+	    position: relative;
+	    padding-bottom: 35px;
+	    text-align: center;
+	}
+}
 
+@media (max-width:830px){
+    .fl-shipping h4 {
+        font-size: 16px
+    }
+}
 
+@media(max-width: 767px){
+	.special-offer-dsc h1 {
+		line-height: 40px;
+	}
+	.special-offer-dsc {
+	    padding: 70px 0 70px;
+	    text-align: center;
+	}
+	.fl-automator-list-innr li {
+	    padding-left: 43px;
+	}
+	.fl-automator-list-innr ul {
+	    padding-bottom: 27px;
+	}
+}
 
+@media(max-width: 639px){
+    .fl-shipping .two_sec img {
+        width: 65px;
+        height: 65px
+    }
+    .fl-shipping img {
+        width: 50px;
+        height: 50px
+    }
+}
+ 
+@media(max-width: 575px){
+    .hdr-logo, .secure-img {
+        display: inline-block;
+        vertical-align: baseline;
+        max-width: 120px;
+    }    
+	.special-offer-dsc h3 br{
+	    display: none;
+	}
+	.fl-dft-angle-des-hdr h2 br{
+	    display: none;
+	}
+}
 
+@media(max-width: 479px){
+    .fl-shipping-progress-bar {
+        margin-top: -10px
+    }    
+    .fl-shipping {
+        margin-left: -15px;
+        margin-right: -15px;
+        padding-bottom: 12px
+    }    
+    .fl-shipping h4 {
+        font-size: 14px
+    }    
+    .fl-shipping:before {
+        height: 12px
+    }    
+    .fl-shipping-col {
+        width: 30%;
+        float: left
+    }    
+    .fl-shipping-col.two_sec {
+        width: 40%;
+        float: left
+    }    
+    .fl-shipping-col.two_sec span {
+        display: block
+    }
+	.fl-dft-angle-des-hdr h2 br{
+	    display: none;
+	}
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+@media(max-width: 359px){
+    .hdr-logo, .secure-img {
+        display: inline-block;
+        vertical-align: baseline;
+        max-width: 100px;
+    }
+}
