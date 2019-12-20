@@ -314,7 +314,7 @@ header.fl-hdr{
 }
 .fl-automator-you-sec{
 	position: relative;
-	padding: 0px 0 50px;
+	padding-bottom: 50px;
 }
 
 .fl-automator-you-head-innr{
@@ -340,6 +340,9 @@ header.fl-hdr{
 	width: 51%;
 	float: left;
 	padding-left: 26px;
+}
+.fl-automator-you-des p:last-child{
+	margin-bottom: 0;
 }
 .fl-automator-you-des p span{
 	font-family: 'LatoLightItalic';
@@ -386,12 +389,11 @@ header.fl-hdr{
     font-family: 'Vollkorn-Bold';
     margin-bottom: 0;
 }
-.smart-money-oftion{
-	position: relative;
-	max-width: 890px;
-	margin: 0 auto;
-	padding-top: 30px;
-	padding-bottom: 60px;
+.smart-money-oftion {
+    position: relative;
+    max-width: 930px;
+    margin: 0 auto;
+    padding: 30px 20px 60px;
 }
 .smart-money-oftion ul{
 	padding-left: 20px;
@@ -439,9 +441,10 @@ header.fl-hdr{
     transform: translateY(-50%);
     z-index: 4;
 }
-.smart-money-oftion li a{
+.smart-money-oftion li strong{
 	display: block;
 	vertical-align: baseline;
+	font-weight: normal;
 	color: #4a4a4a;
 	padding: 20px 20px 20px 90px;
 	background: #fff;
@@ -664,16 +667,36 @@ span.fl-txt-line-bg {
 	.fl-personal-benefit-innr {
 	    padding-bottom: 50px;
 	}
-
-.fl-credit-score-img {
-    width: 100%;
-    padding-top: 0;
-    margin-bottom: 25px;
-}
-.fl-credit-score-des {
-    width: 100%;
-    padding: 0;
-}
+	.fl-credit-score-img {
+	    width: 100%;
+	    padding-top: 0;
+	    margin-bottom: 25px;
+	}
+	.fl-credit-score-des {
+	    width: 100%;
+	    padding: 0;
+	}
+	.fl-automator-you-two-part li:nth-child(2n+2) .fl-automator-you-img,
+	.fl-automator-you-img {
+	    width:100%;
+	    margin-bottom: 25px;
+	}
+	.fl-automator-you-two-part li:nth-child(2n+2) .fl-automator-you-des,
+	.fl-automator-you-des {
+	    width:100%;
+	    padding: 0;
+	}
+	.fl-automator-you-two-part li:not(:last-child){
+		margin-bottom: 30px!important;
+	}
+	.fl-smart-money-img {
+	    width: 100%;
+	    margin-bottom: 25px;
+	}
+	.fl-smart-money-des {
+	    width: 100%;
+	    padding:0 40px 30px;
+	}
 
 }
 
@@ -687,7 +710,6 @@ span.fl-txt-line-bg {
 	.special-offer-dsc {
 	    padding: 70px 150px 70px 0;
 	}
-
 	.fl-dft-angle-img { 
 		background-image:none!important;
 	    position: static;
@@ -729,7 +751,9 @@ span.fl-txt-line-bg {
 	.fl-dft-angle-des p br {
 	    display: none!important;
 	}
-
+	.fl-smart-money-head h2 br{
+	    display: none;
+	}
 
 }
 
@@ -753,6 +777,12 @@ span.fl-txt-line-bg {
 	.fl-automator-list-innr ul {
 	    padding-bottom: 27px;
 	}
+	.fl-smart-money-des {
+	    padding: 0 40px 10px;
+	}
+	.smart-money-oftion {
+	    padding: 30px 20px 40px;
+	}
 }
 
 @media(max-width: 639px){
@@ -764,6 +794,9 @@ span.fl-txt-line-bg {
         width: 50px;
         height: 50px
     }
+    .smart-money-oftion li {
+	    font-size: 22px;
+	}
 }
  
 @media(max-width: 575px){
@@ -777,6 +810,24 @@ span.fl-txt-line-bg {
 	}
 	.fl-dft-angle-des-hdr h2 br{
 	    display: none;
+	}
+	.smart-money-oftion li {
+	    font-size: 18px;
+	    margin-bottom: 40px;
+	}
+	.smart-money-oftion li strong {
+	    padding: 12px 10px 12px 90px;
+	}
+	.smart-money-oftion li span {
+	    font-size: 22px;
+	    line-height: 55px;
+	    width: 70px;
+	    height: 70px;
+	    border: 8px solid #135d9d;
+	}
+	.smart-money-oftion ul:after {
+	    width: 20px;
+	    left: 25px;
 	}
 }
 
