@@ -302,6 +302,25 @@ span.fl-txt-line-bg {
     padding-bottom: 5px;
     color: #000;
 }
+.fl-dft-angle-sec-3 .fl-dft-angle-block {
+    border: 4px solid #000 !important;
+}
+.fl-confusion-dsc-tp {
+    position: relative;
+    padding-right: 20px;
+}
+.fl-confusion-dsc-btm{
+    position: relative;
+}
+.fl-confusion-dsc-bg {
+    position: absolute;
+    left: -15px;
+    right: 0;
+    top: 55px;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center center !important;
+}
 
 
 @media(max-width: 1399px){
@@ -323,6 +342,18 @@ span.fl-txt-line-bg {
     }
     .fl-result-came-img-btm{
         text-align: center;
+    }
+    .fl-steps-wrong-img-tp {
+        margin-top: 0;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .fl-steps-wrong-img-btm{
+        text-align: center;
+    }
+    .fl-steps-wrong-img-btm {
+        text-align: center;
+        padding-bottom: 20px;
     }
 
 }
