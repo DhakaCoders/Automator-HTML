@@ -347,6 +347,13 @@ span.fl-txt-line-bg {
     padding-right: 40px;
 }
 
+.fl-dft-angle-sec.fl-dft-angle-sec-3 .fl-dft-angle-des {
+    max-width: 860px;
+}
+.fl-dft-angle-sec.fl-dft-angle-sec-3 .fl-dft-angle-des-pera {
+    padding-right: 261px;
+}
+
 
 
 
@@ -524,7 +531,9 @@ span.fl-txt-line-bg {
 
 
 @media(max-width: 991px){
-    
+    .fl-dft-angle-sec.fl-dft-angle-sec-3 .fl-dft-angle-des-pera {
+        padding-right: 0;
+    }
 
 
 }
