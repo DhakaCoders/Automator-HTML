@@ -782,6 +782,9 @@ span.fl-txt-line-bg {
 	.smart-money-oftion {
 	    padding: 30px 20px 40px;
 	}
+	.fl-credit-score-sec {
+	    padding: 45px 0 20px;
+	}
 }
 
 @media(max-width: 639px){
