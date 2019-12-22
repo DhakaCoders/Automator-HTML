@@ -245,6 +245,13 @@ strong { font-weight:normal }
   padding-right: 5px!important;
 }
 
+.left-15{
+  margin-left: -15px !important;
+}
+.right-15{
+  margin-right: -15px !important;
+}
+
 h1 {
   font-size: 60px;
 }
@@ -284,6 +291,12 @@ h4 {
     }
     p br{
       display: none;
+    }
+    .left-15{
+      margin-left: 0 !important;
+     }
+    .right-15{
+      margin-right: 0 !important;
     }
 }
 @media(max-width: 991px){
