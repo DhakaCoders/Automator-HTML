@@ -40,6 +40,7 @@ header.fl-hdr{
 .fl-shipping-progress-bar{
     background: #fff;
 }
+
 .fl-shipping {
     padding-bottom: 28px;
     box-sizing: border-box;
@@ -47,14 +48,30 @@ header.fl-hdr{
     max-width: 1110px;
     margin: 0 auto;
 }
-.fl-shipping img {
+.fl-shipping > i{
+    position: absolute;
+    display: block;
+    height: 15px;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 45px;
+    z-index: 1;
+}
+.fl-shipping > i > img{
+   width: 100%;
+   height: 15px;
+   border-radius: 15px;
+}
+
+.fl-shipping-col img {
     display: inline-block;
     position: relative;
     top: 36px;
     width: 57px;
     height: 57px
 }
-.fl-shipping .two_sec img {
+.fl-shipping-col.two_sec img {
     top: 28px;
     width: 71px;
     height: 71px
@@ -63,7 +80,9 @@ header.fl-hdr{
     width: 33.333%;
     float: left;
     padding-left: 7px;
-    padding-right: 7px
+    padding-right: 7px;
+    position: relative;
+    z-index: 2;
 }
 .fl-shipping h4 {
     color: #000;
@@ -76,17 +95,6 @@ header.fl-hdr{
 .fl-shipping .two_sec > h4 {
     font-family: 'LatoBold';
     margin-top: 32px;
-}
-.fl-shipping:before {
-    content: "";
-    height: 14px;
-    width: 100%;
-    position: absolute;
-    background: #1184e8;
-    left: 0;
-    right: 0;
-    border-radius: 50px;
-    top: 57px;
 }
 .fl-special-offer-sec{
     position: relative;
@@ -900,6 +908,9 @@ span.fl-txt-line-bg {
     }
 	.fl-dft-angle-des-hdr h2 br{
 	    display: none;
+	}
+	.fl-shipping > i {
+	    top: 60px;
 	}
 }
 
