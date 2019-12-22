@@ -1,0 +1,62 @@
+Desktop
+---------------
+1. https://www.screencast.com/t/Pi2uH5sw6hh
+	gap mileni 
+
+2. https://www.screencast.com/t/MLkMj23Cw8y7
+	aikhane bg-size: cover use koro. 100% 100% use kora jabena
+
+3. https://www.screencast.com/t/dtYIx55ljoWv
+	text missing 
+
+4. https://www.screencast.com/t/71iwvgTKdYr9
+	ai img ta .jpg use korle ki kono problem hoy?
+
+5. https://www.screencast.com/t/H54rYb1EO
+	i) box shadow ta besi dark mone hosche
+	ii) top box shadow hobena
+
+6. https://www.screencast.com/t/dYSYS9LC
+	gap kom hoiche
+
+7. https://www.screencast.com/t/ilkG87pTGM
+	display: block daw
+
+8. https://www.screencast.com/t/KbZFSCZy5Rl
+	ai gap ta onek besi lagteche
+
+9. https://www.screencast.com/t/C8z9VYs7
+	brk hobe
+
+10. https://www.screencast.com/t/sfWuLprO8AuJ
+	i) bg-size: 100% 100% use kora jabena. boro and choto window te img ar shap ta kharap dekhay. cover use koro
+	ii) https://www.screencast.com/t/b7iyIi4g3q
+		top and bottom crop kore position diye use korte hobe
+	iii) https://www.screencast.com/t/PWdHzU8lj8ln
+		ai img ta badh porche 
+
+11. https://www.screencast.com/t/00uqsGtnT
+	brk hobe
+
+12. https://www.screencast.com/t/M1oTspD0
+	20px daw
+
+13. https://www.screencast.com/t/bdnOdKpWNszv
+	alignment ta qual hobena. kom besi hobe . valo kore check kore fix korte hobe map diye. j kontar koto width. potita sec ai same 
+
+14. i) https://www.screencast.com/t/Vml0Ea0Q6De
+	ii) https://www.screencast.com/t/vHtXSJBsTVD
+
+	brk hobe
+
+15. https://www.screencast.com/t/EAtg9GjHD8c
+	box shadow ar fix ager motoi
+
+16. https://www.screencast.com/t/U211hDbjtB7
+	line brk gulo check koro
+
+17. https://www.screencast.com/t/bJ58l8xs
+	box shadow mileni
+	
+18.  Desktop fix ses hole responsive tane akbar dekhte hobe j thik ache kina
+
