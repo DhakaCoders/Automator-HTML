@@ -12,7 +12,7 @@ header.fl-hdr{
 .header-innr {
     background: #fff;
     padding: 10px 0; 
-} 
+}  
 .hdr-left, 
 .hdr-rgt {
     width: 50%;
@@ -264,7 +264,7 @@ header.fl-hdr{
 	padding-top: 17px;
 }
 .fl-credit-score-img img{
-	width: 636px;
+	max-width: 636px;
 	width: 100%;
 }
 .fl-credit-score-des{
