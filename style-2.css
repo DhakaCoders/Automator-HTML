@@ -186,6 +186,9 @@
     text-transform: uppercase;
     border-bottom: 2px solid #000;
 }
+.bdr-none a{
+    border-bottom: none;
+}
 .fl-creditcard-btn a:hover{
     opacity: .5;
 }
