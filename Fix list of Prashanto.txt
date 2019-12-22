@@ -74,7 +74,8 @@ New
 1. https://www.screencast.com/t/UIWsoiQZE4Ly
 	ai text gulo logo borabor hobe
 
-
+2. https://www.screencast.com/t/z4t4QzLviNTA
+	ai img ta kate bosate hobe. solid bg hobena
 
 Carefully helden korte hobe, exact korar try korte hobe.
 ----
@@ -83,3 +84,16 @@ Carefully helden korte hobe, exact korar try korte hobe.
 
 10. ii) https://www.screencast.com/t/b7iyIi4g3q
 		top and bottom crop kore position diye use korte hobe done
+
+
+
+Responsive
+-----------------------
+1. https://www.screencast.com/t/OwnvEynvrWKI
+   lege jasche. j section gulo ber kora hoiche ta akta somay sob container borabor thakbe 
+
+2. https://www.screencast.com/t/VaH8dLm7i3
+	lege jay aktu gap rakha jayki 2 pase
+
+3. https://www.screencast.com/t/q5T4Z0j7LRrs
+	575px thake brk tule daw aitar
