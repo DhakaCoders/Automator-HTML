@@ -1,13 +1,13 @@
 .fl-result-came-sec-wrp {
     position: relative;
-    padding-bottom: 30px;
-    padding-top: 85px;
+    padding-bottom: 20px;
+    padding-top: 65px;
 }
 .top-wave-img {
     position: absolute;
     left: 0;
     right: 0;
-    top: -1px;
+    top: -29px;
     z-index: 1;
     height: 30px;
     background-size: cover !important;
@@ -18,7 +18,7 @@
     position: absolute;
     left: 0;
     right: 0;
-    bottom: -1px;
+    bottom: -29px;
     z-index: 1;
     height: 30px;
     background-size: cover !important;
@@ -52,9 +52,9 @@
     margin-bottom: 30px;
 }
 .fl-steps-wrong-btm-sec-wrp,
-.fl-steps-wrong-sec-wrp{
-	padding-top: 40px;
-	padding-bottom: 30px;
+.fl-steps-wrong-sec-wrp {
+    padding-top: 40px;
+    padding-bottom: 55px;
 }
 .fl-steps-wrong-btm-sec-wrp .fl-steps-wrong-dsc-tp {
     padding-right: 30px;
@@ -88,9 +88,9 @@
 	padding-bottom: 50px;
 }
 
-.fl-confusion-sec-wrp{
-	padding-top: 50px;
-	padding-bottom: 50px;
+.fl-confusion-sec-wrp {
+    padding-top: 75px;
+    padding-bottom: 80px;
 }
 .fl-confusion-bdr{
 	border: 4px solid #000;
@@ -130,7 +130,7 @@
     padding-right: 85px;
 }
 .fl-credit-cart-sec-wrp {
-    padding-top: 15px;
+    padding-top: 40px;
     padding-bottom: 25px;
 }
 .fl-credit-cart-dsc{
@@ -202,8 +202,9 @@
     padding-top: 0 !important;
     padding-bottom: 0 !important;
 }
-.prd-bt-5{
+.prd-bt-5 {
     padding-bottom: 5px !important;
+    padding-top: 65px !important;
 }
 .fl-add-to-cart-img{
     margin-left: -20px;
