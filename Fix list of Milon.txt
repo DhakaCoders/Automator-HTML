@@ -59,17 +59,19 @@ Desktop
 New
 ----------
 1. https://www.screencast.com/t/L0LU1F43
-	ai class ta ai div a hobe
-2. https://www.screencast.com/t/AIOzr2Qj2mN2
-	ai div a ai class lagbena . j img gulo bahire ber korte bolchi . just seguloi koro
+	ai class ta ai div a hobe . jetatei use korina keno col a use kora jabena inner a use korte hobe
 
-3. https://www.screencast.com/t/Ijfqa2qMoRJB
-	ai img ta ki container ar bahire ber kora ache. jeta ber kora ache seta ber koro jeta nai seta lagbena. 
-	top to bottom potita sec a check kore update koro . then responsive ta dekhtechi. 
-4. https://www.screencast.com/t/68y00IZeACs
-	ai button a black border ta hobena. uporer button tate hobe
 
-5. https://www.screencast.com/t/YYBhJqHG8b
+2. https://www.screencast.com/t/Ijfqa2qMoRJB
+	https://www.screencast.com/t/AIOzr2Qj2mN2
+
+	ai img gulo container ar bahire ber hobena. jeta ber kora ache seta ber korte hobe r jeta nai seta lagbena. 
+	top to bottom potita sec a check kore update korte hobe.
+
+3. https://www.screencast.com/t/68y00IZeACs
+	ai button a black border ta hobena. uporer button tate thik ache
+
+4. https://www.screencast.com/t/YYBhJqHG8b
 	https://www.screencast.com/t/BVI9TrBJw
 	ata missing
 
