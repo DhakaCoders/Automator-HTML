@@ -14,43 +14,63 @@ Desktop
 	aita badhe bakigulo italic hobe ---done
 
 5. 	i) https://www.screencast.com/t/tWceW0aCH
-	ii) https://www.screencast.com/t/bp5uhjtss
-	iii) https://www.screencast.com/t/47n557DjGYy
-	iv) https://www.screencast.com/t/nmtEHgbCl
+	ii) https://www.screencast.com/t/bp5uhjtss  ---done
+	iii) https://www.screencast.com/t/47n557DjGYy --done
+	iv) https://www.screencast.com/t/nmtEHgbCl --done
 	v) https://www.screencast.com/t/gH4iWlsNaBb
 	vi) https://www.screencast.com/t/TIvyb2meGdh
 	container thake ber kora thakbe. aigulo jonno 2 ta common class use korte paro . akta left ar jonno r akta right ar jonno
 
 6. https://www.screencast.com/t/DgNfEUM7ajy
-	italic hobena
+	italic hobena  ---done
 
 7. https://www.screencast.com/t/rY2Mv7rFGUO
-	gap kom hobe . img ta (-) margin kore upore tulo . jotota lage
+	gap kom hobe . img ta (-) margin kore upore tulo . jotota lage  --done
 
 8. https://www.screencast.com/t/i1TXg9k5n0W
-	top and bottom a ager fix ar motoi.
+	top and bottom a ager fix ar motoi. 
 
 9. https://www.screencast.com/t/mxCoFZtcRi8i
 	aigulo aktu valo kore milate hobe . jotota milano jay
 
 10.  https://www.screencast.com/t/0POsLidJp
-	ai img ta left a besi hoye geche. r aktu right a jabe
+	ai img ta left a besi hoye geche. r aktu right a jabe   ---done
 
 12. https://www.screencast.com/t/5i1fhmRQ3
-	black border ta lagbe
+	black border ta lagbe --done
 
 13. https://www.screencast.com/t/2G5v9Kj6
-	ai img ta hobena onno img hobe
+	ai img ta hobena onno img hobe  --done
 
 14. https://www.screencast.com/t/ACF58Mzj
 	lock icon ta missing . new icon ta use korar por gap ta dekhte hobe. thik thake kina
 
 15. https://www.screencast.com/t/pJBhBqli8h
-	text color mileni
+	text color mileni ---done
 
 16. https://www.screencast.com/t/tfCIGj7jwke9
-	target blank lagbe
+	target blank lagbe--- done
 
 17. https://www.screencast.com/t/F6tIOinixP
-	font-size: 14px hobe
+	font-size: 14px hobe  --done
+
+
+
+New
+----------
+1. https://www.screencast.com/t/L0LU1F43
+	ai class ta ai div a hobe
+2. https://www.screencast.com/t/AIOzr2Qj2mN2
+	ai div a ai class lagbena . j img gulo bahire ber korte bolchi . just seguloi koro
+
+3. https://www.screencast.com/t/Ijfqa2qMoRJB
+	ai img ta ki container ar bahire ber kora ache. jeta ber kora ache seta ber koro jeta nai seta lagbena. 
+	top to bottom potita sec a check kore update koro . then responsive ta dekhtechi. 
+4. https://www.screencast.com/t/68y00IZeACs
+	ai button a black border ta hobena. uporer button tate hobe
+
+5. https://www.screencast.com/t/YYBhJqHG8b
+	https://www.screencast.com/t/BVI9TrBJw
+	ata missing
+
 
