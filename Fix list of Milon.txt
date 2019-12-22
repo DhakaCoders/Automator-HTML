@@ -5,13 +5,13 @@ Desktop
 
 2. https://www.screencast.com/t/Oi3foRR2zEHa
 	bg-property gulo ager project thake dekhe niye daw
-	to and bottom 2 tare
+	to and bottom 2 tare  ---done
 
 3. https://www.screencast.com/t/0kFYycLFXTz
-	ai img ta container thake -15px ber kora thakbe
+	ai img ta container thake -15px ber kora thakbe --done
 
 4. https://www.screencast.com/t/JrrSmIN2fM
-	aita badhe bakigulo italic hobe
+	aita badhe bakigulo italic hobe ---done
 
 5. 	i) https://www.screencast.com/t/tWceW0aCH
 	ii) https://www.screencast.com/t/bp5uhjtss
