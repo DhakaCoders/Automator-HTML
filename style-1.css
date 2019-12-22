@@ -85,10 +85,6 @@ header.fl-hdr{
     border-radius: 50px;
     top: 57px;
 }
-.fl-reading-sec{
-	padding: 25px 0 60px;
-}
-
 .fl-special-offer-sec{
     position: relative;
     z-index: 1
@@ -120,6 +116,9 @@ header.fl-hdr{
 	font-family: 'LatoSemiBoldItalic';
     margin-bottom: 10px;
     color: #fcff27;
+}
+.fl-reading-sec{
+	padding: 25px 0 60px;
 }
 .fl-reading-two-part-wrp .fl-reading-img{
 	width: 50%;
@@ -782,6 +781,9 @@ span.fl-txt-line-bg {
 	}
 	.smart-money-oftion {
 	    padding: 30px 20px 40px;
+	}
+	.fl-credit-score-sec {
+	    padding: 45px 0 20px;
 	}
 }
 
