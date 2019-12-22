@@ -1,5 +1,9 @@
 Desktop
 ---------------
+0. https://www.screencast.com/t/bcaBQ0Cnhe
+	logo and right logo container thake aktu ber hobe
+	container thake aktu boro width aitar. margin - kore ber koro
+	
 1. https://www.screencast.com/t/Pi2uH5sw6hh
 	gap mileni 
 
