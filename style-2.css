@@ -1,7 +1,10 @@
 .fl-result-came-sec-wrp {
     position: relative;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     padding-top: 65px;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-size: cover !important;
 }
 .top-wave-img {
     position: absolute;
@@ -10,9 +13,8 @@
     top: -29px;
     z-index: 1;
     height: 30px;
-    background-size: cover !important;
-    background-repeat: no-repeat!important;
-    background-position: center center !important;
+    background-repeat: repeat-x!important;
+    background-position: center top!important;
 }
 .btm-wave-img {
     position: absolute;
@@ -21,9 +23,8 @@
     bottom: -29px;
     z-index: 1;
     height: 30px;
-    background-size: cover !important;
-    background-repeat: no-repeat!important;
-    background-position: center center !important;
+    background-repeat: repeat-x!important;
+    background-position: center bottom!important;
 }
 .fl-result-came-img-tp{
 	margin-top: -30px;
@@ -62,11 +63,17 @@
 .fl-steps-wrong-img-tp {
     margin-top: -35px;
 }
+.fl-steps-wrong-img-tp img{
+    margin-right: -15px;
+}
 .fl-steps-wrong-dsc-btm {
     padding-right: 45px;
 }
 .fl-steps-wrong-dsc-tp {
     padding-right: 5px;
+}
+.fl-steps-wrong-dsc-tp p em{
+    font-family: 'LatoLightItalic';
 }
 
 
@@ -162,21 +169,22 @@
 .fl-coffee-invest-sec-wrp .fl-credit-fixed-head h2 {
     margin-bottom: 25px;
 }
-.fl-creditcard-btn a{
-	display: inline-block;
-	vertical-align: baseline;
-	text-decoration: none;
-	font-family: 'Barlow-ExtraBold';
-	font-size: 36px;
-	line-height: 38px;
-	color: #000;
-	padding: 20px 38px;
-	background-size: cover !important;
-	background-position: center center !important;
-	background-repeat: no-repeat !important;
-	border-radius: 5px;
-	margin-bottom: 15px;
-	text-transform: uppercase;
+.fl-creditcard-btn a {
+    display: inline-block;
+    vertical-align: baseline;
+    text-decoration: none;
+    font-family: 'Barlow-ExtraBold';
+    font-size: 36px;
+    line-height: 38px;
+    color: #000;
+    padding: 20px 38px;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #000;
 }
 .fl-creditcard-btn a:hover{
     opacity: .5;
@@ -208,6 +216,15 @@
 }
 .fl-add-to-cart-img{
     margin-left: -20px;
+}
+.fl-dft-angle-sec-3 .fl-dft-angle-des-hdr h2{
+    font-family: 'Vollkorn-Bold';
+}
+.fl-steps-wrong-img-btm{
+    margin-top: -15px;
+}
+.fl-confusion-dsc-btm .fl-confusion-dsc-bg{
+    left: 0;
 }
 
 
@@ -286,6 +303,9 @@
 .fl-copyright{
     padding-bottom: 30px;
 }
+.fl-copyright p{
+    font-size: 14px;
+}
 .fl-ftr-nav ul li{
     padding: 0 10px;
     position: relative;
@@ -304,7 +324,7 @@
     -webkit-transform: translateY(-50%);
 }
 .fl-ftr-des{
-    color: #c3ced7;
+    color: #8c969e;
     padding: 0 10px;
 }
 
