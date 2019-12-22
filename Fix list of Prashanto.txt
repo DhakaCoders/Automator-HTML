@@ -57,6 +57,9 @@ Desktop
 
 17. https://www.screencast.com/t/bJ58l8xs
 	box shadow mileni
-	
-18.  Desktop fix ses hole responsive tane akbar dekhte hobe j thik ache kina
+
+18. https://www.screencast.com/t/vyAkHx36jVeb
+	50px hobe
+
+19  Desktop fix ses hole responsive tane akbar dekhte hobe j thik ache kina
 
