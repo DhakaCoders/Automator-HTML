@@ -28,13 +28,11 @@ header.fl-hdr{
     display: inline-block;
     vertical-align: baseline;
     max-width: 252px;
-    margin-left: -14px;
 }
 .secure-img{
     display: inline-block;
     vertical-align: baseline;
     max-width: 223px;
-    margin-right: -14px;
 }
 .fl-hdr img{
     width: 100%
@@ -180,9 +178,9 @@ header.fl-hdr{
 .fl-personal-benefit-innr {
 	background: #fff;
 	padding-bottom: 30px;
-	-webkit-box-shadow: 0 5px 12px 0 rgb(180, 179, 179);
-	-moz-box-shadow: 0 5px 12px 0 rgb(180, 179, 179);
-	box-shadow: 0 5px 12px 0 rgb(180, 179, 179);
+	-webkit-box-shadow: 0 5px 14px -8px rgb(180, 179, 179);
+	-moz-box-shadow: 0 5px 14px -8px rgb(180, 179, 179);
+	box-shadow: 0 5px 14px -8px rgb(180, 179, 179);
 	border-top: 1px solid #b0c4d5;
 }
 
@@ -399,9 +397,9 @@ header.fl-hdr{
 .fl-smart-money-innr{	
 	background: #fff;
 	padding-bottom: 45px;
-	-webkit-box-shadow: 0 5px 12px 0 rgb(180, 179, 179);
-	-moz-box-shadow: 0 5px 12px 0 rgb(180, 179, 179);
-	box-shadow: 0 5px 12px 0 rgb(180, 179, 179);
+	-webkit-box-shadow: 0 5px 14px -8px rgb(180, 179, 179);
+	-moz-box-shadow: 0 5px 14px -8px rgb(180, 179, 179);
+	box-shadow: 0 5px 14px -8px rgb(180, 179, 179);
 	border-top: 1px solid #b0c4d5;
 }
 .fl-smart-money-img{
