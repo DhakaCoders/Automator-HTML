@@ -2,68 +2,68 @@ Desktop
 --------------- 
 0. https://www.screencast.com/t/bcaBQ0Cnhe
 	logo and right logo container thake aktu ber hobe
-	container thake aktu boro width aitar. margin - kore ber koro
+	container thake aktu boro width aitar. margin - kore ber koro --done
 	
 1. https://www.screencast.com/t/Pi2uH5sw6hh
-	gap mileni 
+	gap mileni  --done
 
 2. https://www.screencast.com/t/MLkMj23Cw8y7
-	aikhane bg-size: cover use koro. 100% 100% use kora jabena
+	aikhane bg-size: cover use koro. 100% 100% use kora jabena --done
 
 3. https://www.screencast.com/t/dtYIx55ljoWv
-	text missing 
+	text missing -done
 
 4. https://www.screencast.com/t/71iwvgTKdYr9
-	ai img ta .jpg use korle ki kono problem hoy?
+	ai img ta .jpg use korle ki kono problem hoy?  --done
 
 5. https://www.screencast.com/t/H54rYb1EO
-	i) box shadow ta besi dark mone hosche
-	ii) top box shadow hobena
+	i) box shadow ta besi dark mone hosche --done
+	ii) top box shadow hobena -- done
 
 6. https://www.screencast.com/t/dYSYS9LC
-	gap kom hoiche
+	gap kom hoiche --done
 
 7. https://www.screencast.com/t/ilkG87pTGM
-	display: block daw
+	display: block daw --done
 
 8. https://www.screencast.com/t/KbZFSCZy5Rl
-	ai gap ta onek besi lagteche
+	ai gap ta onek besi lagteche --done
 
 9. https://www.screencast.com/t/C8z9VYs7
-	brk hobe
+	brk hobe --done
 
 10. https://www.screencast.com/t/sfWuLprO8AuJ
-	i) bg-size: 100% 100% use kora jabena. boro and choto window te img ar shap ta kharap dekhay. cover use koro
+	i) bg-size: 100% 100% use kora jabena. boro and choto window te img ar shap ta kharap dekhay. cover use koro --done
 	ii) https://www.screencast.com/t/b7iyIi4g3q
-		top and bottom crop kore position diye use korte hobe
+		top and bottom crop kore position diye use korte hobe done
 	iii) https://www.screencast.com/t/PWdHzU8lj8ln
-		ai img ta badh porche 
+		ai img ta badh porche --done
 
 11. https://www.screencast.com/t/00uqsGtnT
-	brk hobe
+	brk hobe --done
 
 12. https://www.screencast.com/t/M1oTspD0
-	20px daw
+	20px daw --done
 
 13. https://www.screencast.com/t/bdnOdKpWNszv
-	alignment ta qual hobena. kom besi hobe . valo kore check kore fix korte hobe map diye. j kontar koto width. potita sec ai same 
+	alignment ta qual hobena. kom besi hobe . valo kore check kore fix korte hobe map diye. j kontar koto width. potita sec ai same --done
 
 14. i) https://www.screencast.com/t/Vml0Ea0Q6De
 	ii) https://www.screencast.com/t/vHtXSJBsTVD
 
-	brk hobe
+	brk hobe --done
 
 15. https://www.screencast.com/t/EAtg9GjHD8c
-	box shadow ar fix ager motoi
+	box shadow ar fix ager motoi --done
 
 16. https://www.screencast.com/t/U211hDbjtB7
-	line brk gulo check koro
+	line brk gulo check koro --done
 
 17. https://www.screencast.com/t/bJ58l8xs
-	box shadow mileni
+	box shadow mileni --done
 
 18. https://www.screencast.com/t/vyAkHx36jVeb
-	50px hobe
+	50px hobe --done
 
-19  Desktop fix ses hole responsive tane akbar dekhte hobe j thik ache kina
+19  Desktop fix ses hole responsive tane akbar dekhte hobe j thik ache kina --done
 
