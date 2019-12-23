@@ -76,3 +76,41 @@ New
 	ata missing
 
 
+
+Responsive
+----------------------
+1. https://www.screencast.com/t/n9RpsEZRu9PK
+	https://www.screencast.com/t/Jcs45AazJcDm
+	text ar niche bg lagbe . ai text ta desktop thake 2 ta p ar moddhe rakhle manage kora jabe
+
+2. https://www.screencast.com/t/44dopira
+	text ar sathe lege jasche
+
+3. https://www.screencast.com/t/An8K3WdLRbI
+	blue and black text ak line a houa jabena
+
+4. https://www.screencast.com/t/2qxJnL7lKEzr
+	lage geche  -  1399px thake margin left and right gulo off kore dite paro
+
+5. https://www.screencast.com/t/knbPbsEW2n
+	white gap hoye geche
+
+6. https://www.screencast.com/t/r6BwB48VLctM
+	575px a 50 daw top a
+
+7. https://www.screencast.com/t/trogjx2JHl
+	1399px  ai 2 ta img amon rakho
+
+8. https://www.screencast.com/t/lRZOAPiT3
+	lege geche
+
+9. https://www.screencast.com/t/o0D8Kd4MVLS6
+	1199px ai img ta text-align right a rakho. 320px pojonto.
+	r nicher tao left a thakbe 320 pojonto
+
+10. https://www.screencast.com/t/nSNP7OgH
+	2 ta lege geche . 2 ta different word . 
+	
+12.
+
+
