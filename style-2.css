@@ -10,11 +10,12 @@
     position: absolute;
     left: 0;
     right: 0;
-    top: -29px;
+    top: -20px;
     z-index: 1;
     height: 30px;
     background-repeat: repeat-x!important;
     background-position: center top!important;
+    background-size: contain;
 }
 .btm-wave-img {
     position: absolute;
@@ -24,7 +25,8 @@
     z-index: 1;
     height: 30px;
     background-repeat: repeat-x!important;
-    background-position: center bottom!important;
+    background-position: center top!important;
+    background-size: contain;
 }
 .fl-result-came-img-tp{
 	margin-top: -30px;
@@ -185,6 +187,9 @@
     margin-bottom: 15px;
     text-transform: uppercase;
     border-bottom: 2px solid #000;
+}
+.bdr-none a{
+    border-bottom: none;
 }
 .fl-creditcard-btn a:hover{
     opacity: .5;
