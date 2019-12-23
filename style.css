@@ -1810,6 +1810,12 @@ span.fl-txt-line-bg {
     .fl-credit-fixed-head h2 br{
         display: none;
     }
+  .fl-reading-two-part-wrp li:not(:last-child) {
+      margin-bottom: 0;
+  }
+  .fl-automator-you-two-part li:not(:last-child) {
+      margin-bottom: 30px!important;
+  }
 }
 
 @media(max-width: 639px){
