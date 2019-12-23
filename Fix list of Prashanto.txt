@@ -96,4 +96,18 @@ Responsive
 	lege jay aktu gap rakha jayki 2 pase
 
 3. https://www.screencast.com/t/q5T4Z0j7LRrs
-	575px thake brk tule daw aitar
+	575px thake brk tule daw aitar. airokom aro kothao hoykina dekhte hobe valo kore
+
+4. https://www.screencast.com/t/WI2gW6EwaBi4
+ 	aita onek besi gap hoye jasche 1199px; a ata full kore daw
+
+5. https://www.screencast.com/t/o4OIemfv58p
+	ai gap 2 ta 575px thake komay daw
+
+	https://www.screencast.com/t/QDjbxAxJ
+	upor ar niche same dio
+6. https://www.screencast.com/t/M9W7ftYdcD
+	brk tule dite hobe. sob brk gulp valo kore kheyal korte hobe. jgulo kharap dekhay tule dite hobe
+
+7. https://www.screencast.com/t/Gypt8nY0Fu1B
+	575px a 30 kore daw ai img ta
