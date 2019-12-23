@@ -1059,7 +1059,7 @@ span.fl-txt-line-bg {
 
 .fl-paid-sec-wrp{
   padding-top: 60px;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   background-position: center center !important;
@@ -1076,6 +1076,7 @@ span.fl-txt-line-bg {
 }
 .fl-credit-cart-dsc{
   padding-right: 25px;
+  padding-top: 10px;
 }
 .fl-coffee-invest-sec-wrp .fl-steps-wrong-img-tp {
     margin-top: -5px;
@@ -1484,7 +1485,7 @@ span.fl-txt-line-bg {
         padding-right: 0;
     }
     .fl-paid-sec-wrp {
-        padding-bottom: 40px;
+        padding-bottom: 20px;
     }
     .fl-credit-cart-img-1{
         text-align: center;
@@ -1889,6 +1890,9 @@ span.fl-txt-line-bg {
   }
   .fl-coffee-invest-sec-wrp .fl-credit-fixed-head h2{
     margin-bottom: 15px;
+  }
+  .fl-credit-cart-dsc{
+    padding-top: 0;
   }
 }
 
