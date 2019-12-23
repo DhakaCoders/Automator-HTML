@@ -1124,7 +1124,7 @@ span.fl-txt-line-bg {
     border-bottom: none;
 }
 .fl-creditcard-btn a:hover{
-    opacity: .5;
+    opacity: .9;
 }
 .fl-creditcard-btn span{
   display:block;
