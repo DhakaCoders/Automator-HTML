@@ -131,6 +131,10 @@ header.fl-hdr{
 .fl-reading-sec{
 	padding: 25px 0 60px;
 }
+.fl-reading-two-part-wrp{
+	padding-left: 15px;
+	padding-right: 15px;
+}
 .fl-reading-two-part-wrp .fl-reading-img{
 	width: 50%;
 	float: left
@@ -358,7 +362,10 @@ header.fl-hdr{
 	position: relative;
 	padding-bottom: 50px;
 }
-
+.fl-automator-you-innr{
+	padding-left: 15px;
+	padding-right: 15px;
+}
 .fl-automator-you-head-innr{
 	display: inline-block;
 	max-width: 485px;
@@ -374,9 +381,13 @@ header.fl-hdr{
 	color: #fff;
 	margin-bottom: 0;
 }
-.fl-automator-you-img{
-	width: 49%;
-	float: left;
+.fl-automator-you-img {
+    width: 49%;
+    float: left;
+    padding-top: 10px;
+}
+.fl-automator-you-two-part li:nth-child(3) .fl-automator-you-img{
+	padding-top: 22px;
 }
 .fl-automator-you-des{
 	width: 51%;
@@ -514,15 +525,9 @@ header.fl-hdr{
 	margin-left: 45px;
 	margin-bottom: 0;
 }
-
-
-
-.fl-dft-angle-sec{
-
-}
-.fl-dft-angle-sec-innr{
-	padding-left: 42px;
-	padding-right: 42px;
+.fl-dft-angle-sec-innr {
+    padding-left: 45px;
+    padding-right: 45px;
 }
 .fl-dft-angle-block{
 	position: relative;
@@ -743,6 +748,11 @@ span.fl-txt-line-bg {
 	    width: 100%;
 	    padding:0 40px 30px;
 	}
+	.fl-automator-you-innr,
+	.fl-reading-two-part-wrp {
+	    padding-left: 0;
+	    padding-right: 0;
+	}
 
 }
 
@@ -800,7 +810,9 @@ span.fl-txt-line-bg {
 	.fl-smart-money-head h2 br{
 	    display: none;
 	}
-
+	.smart-money-last-line {
+	    margin-left: 40px;
+	}
 }
 
 @media (max-width:830px){
