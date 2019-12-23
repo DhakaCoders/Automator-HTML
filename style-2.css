@@ -44,11 +44,11 @@
 .fl-result-came-dsc-tp {
     color: #fff;
     padding-top: 50px;
-    padding-right: 40px;
+    padding-right: 30px;
 }
 .fl-result-came-dsc-btm {
     color: #fff;
-    padding-right: 35px;
+    padding-right: 20px;
 }
 .fl-result-came-img-btm{
 	margin-left: -90px;
@@ -63,7 +63,7 @@
     padding-bottom: 55px;
 }
 .fl-steps-wrong-btm-sec-wrp .fl-steps-wrong-dsc-tp {
-    padding-right: 30px;
+    padding-right: 20px;
 }
 .fl-steps-wrong-img-tp {
     margin-top: -35px;
@@ -72,7 +72,7 @@
     margin-right: -15px;
 }
 .fl-steps-wrong-dsc-btm {
-    padding-right: 45px;
+    padding-right: 30px;
 }
 .fl-steps-wrong-dsc-tp {
     padding-right: 5px;
@@ -117,6 +117,7 @@
 }
 .fl-confusion-head h2 span{
 	color: #135d9d;
+    display: block;
 }
 .fl-confusion-img-1{
 	margin-right: -135px;
@@ -167,6 +168,7 @@
 }
 .fl-credit-cart-dsc-btm{
 	padding-right: 10px;
+    margin-right: -15px;
 }
 .fl-creditcard-btn{
 	padding-bottom: 15px;
@@ -373,7 +375,7 @@ span.fl-txt-line-bg {
     padding-right: 30px;
 }
 .fl-steps-wrong-dsc-btm-lft{
-    padding-right: 40px;
+    padding-right: 20px;
 }
 
 .fl-dft-angle-sec.fl-dft-angle-sec-3 .fl-dft-angle-des {
@@ -390,7 +392,9 @@ span.fl-txt-line-bg {
 }
 
 
-
+.fl-credit-fixed-head h2 span{
+    display: block;
+}
 
 @media(max-width: 1399px){
     .fl-result-came-img-btm {
@@ -578,8 +582,12 @@ span.fl-txt-line-bg {
         margin-top: 20px;
     }
 
-
-
+    .fl-credit-cart-dsc-btm{
+        margin-right: 0;
+    }
+    .fl-result-came-img-btm{
+        padding-bottom: 30px;
+    }
 }
 
 
@@ -600,6 +608,9 @@ span.fl-txt-line-bg {
         padding: 50px 0 60px;
         font-size: 15px;
         line-height: 22px;
+    }
+    .fl-credit-fixed-head h2 br{
+        display: none;
     }
     
 }
