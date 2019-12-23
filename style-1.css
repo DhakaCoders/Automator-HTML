@@ -666,6 +666,14 @@ span.fl-txt-line-bg {
 	}
 	.fl-automator-list-innr li span br{
 	    display: none;
+	}	
+	.fl-credit-fixed-img {
+	    width: 100%;
+	    margin-bottom: 25px;
+	}
+	.fl-credit-fixed-des {
+	    width: 100%;
+	    padding: 0 0 30px;
 	}
 } 
 
@@ -681,14 +689,6 @@ span.fl-txt-line-bg {
 	    width: 100%;
 	    float: left;
 	    padding:0 0 30px!important;
-	}
-	.fl-credit-fixed-img {
-	    width: 100%;
-	    margin-bottom: 25px;
-	}
-	.fl-credit-fixed-des {
-	    width: 100%;
-	    padding: 0 0 30px;
 	}
 	.fl-personal-benefit-two-part li:nth-child(2n+1) .fl-personal-benefit-img,
 	.fl-personal-benefit-two-part .fl-personal-benefit-img {
@@ -846,6 +846,10 @@ span.fl-txt-line-bg {
     .smart-money-oftion li {
 	    font-size: 22px;
 	}
+	.fl-automator-list-innr {
+	    padding-left: 0;
+	    padding-right: 0;
+	}
 }
  
 @media(max-width: 575px){
@@ -854,6 +858,7 @@ span.fl-txt-line-bg {
         vertical-align: baseline;
         max-width: 120px;
     }    
+	.special-offer-dsc h1 br,
 	.special-offer-dsc h3 br{
 	    display: none;
 	}
@@ -878,6 +883,15 @@ span.fl-txt-line-bg {
 	    width: 20px;
 	    left: 25px;
 	}
+	.fl-smart-money-des {
+	    padding: 0 20px 10px;
+	}
+	.smart-money-last-line {
+	    margin-left: 20px;
+	}
+	.fl-automator-list-innr li img {
+	    max-width: 30px;
+	}
 }
 
 @media(max-width: 479px){
@@ -885,8 +899,6 @@ span.fl-txt-line-bg {
         margin-top: -10px
     }    
     .fl-shipping {
-        margin-left: -15px;
-        margin-right: -15px;
         padding-bottom: 12px
     }    
     .fl-shipping h4 {
