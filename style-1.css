@@ -565,6 +565,7 @@ header.fl-hdr{
 }
 .fl-dft-angle-des-hdr h2 span{
 	color:#135d9d;
+	display: block;
 }
 .fl-dft-angle-des-hdr img{
 	position: absolute;
