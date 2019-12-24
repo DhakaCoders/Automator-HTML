@@ -1382,6 +1382,9 @@ span.fl-txt-line-bg {
     p br{
       display: none;
     }
+    .fl-confusion-head h2{
+      font-size: 35px;
+    }
     .left-15{
       margin-left: 0 !important;
      }
@@ -1585,6 +1588,9 @@ span.fl-txt-line-bg {
 
 
 @media(max-width: 1023px){
+  .fl-confusion-head h2 {
+      font-size: 30px;
+  }
   .fl-reading-sec {
       padding: 25px 0 20px;
   }
@@ -1684,7 +1690,9 @@ span.fl-txt-line-bg {
     .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
       line-height: 1.1;
     } 
-
+    .fl-confusion-head h2 {
+      font-size: 26px;
+    }
   .fl-shipping h4 {
         font-size: 18px
     }
