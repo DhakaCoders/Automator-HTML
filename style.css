@@ -1583,7 +1583,13 @@ span.fl-txt-line-bg {
     .fl-result-came-img-btm{
         padding-bottom: 30px;
     }
-
+      .fl-confusion-head h2 span,
+  .fl-credit-fixed-head h2 span,
+  .fl-dft-angle-des-hdr h2 span,
+  .fl-credit-score-head h2 span,
+  .fl-credit-score-head h2 span{
+    display: inline!important;
+  }
 }
 
 
@@ -1661,7 +1667,7 @@ span.fl-txt-line-bg {
       padding-left: 0;
       padding-right: 0;
   }
-
+   
 }
 
 
@@ -1752,6 +1758,7 @@ span.fl-txt-line-bg {
   .fl-dft-angle-sec.fl-dft-angle-sec-3 .fl-dft-angle-des-pera {
       padding-right: 0;
   }
+  
 }
 
 @media (max-width:830px){
@@ -1818,12 +1825,13 @@ span.fl-txt-line-bg {
     .fl-credit-fixed-head h2 br{
         display: none;
     }
-  .fl-reading-two-part-wrp li:not(:last-child) {
-      margin-bottom: 0;
-  }
-  .fl-automator-you-two-part li:not(:last-child) {
-      margin-bottom: 30px!important;
-  }
+    .fl-reading-two-part-wrp li:not(:last-child) {
+        margin-bottom: 0;
+    }
+    .fl-automator-you-two-part li:not(:last-child) {
+        margin-bottom: 30px!important;
+    }
+
 }
 
 @media(max-width: 639px){
