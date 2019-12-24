@@ -683,7 +683,9 @@ header.fl-hdr{
   margin-bottom: 0;
 }
 .fl-automator-you-des p span{
-  font-family: 'LatoLightItalic';
+  font-style: italic;
+  font-weight: 300;
+  display: inline;
 }
 .fl-automator-you-two-part li:nth-child(2n+2) .fl-automator-you-img{
   float: right;
@@ -1007,7 +1009,8 @@ span.fl-txt-line-bg {
     padding-right: 5px;
 }
 .fl-steps-wrong-dsc-tp p em{
-    font-family: 'LatoLightItalic';
+    font-style: italic;
+    display: inline;
 }
 
 
